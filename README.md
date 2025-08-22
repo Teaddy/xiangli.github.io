@@ -1,21 +1,5 @@
 # xiangli.github.io
-# LIZHOU FAN
-[Google Scholar](#) | [LinkedIn](#) | [GitHub](#)
-
----
-
-## APPOINTMENTS
-**The Chinese University of Hong Kong (CUHK)**  
-*Vice-Chancellor Assistant Professor, Department of Psychiatry, Faculty of Medicine*  
-_Aug 2025 – Present_
-
-**Harvard Medical School / Mass General Brigham**  
-*Postdoctoral Research Fellow, AI in Medicine Program*  
-_Sep 2024 – Mar 2025_
-
-**University of California, Los Angeles (UCLA)**  
-*Predoctoral Researcher / Data Scientist, Digital Humanities Program*  
-_Aug 2020 – Jul 2021_
+# XIANG LI
 
 ---
 
@@ -24,9 +8,9 @@ _Aug 2020 – Jul 2021_
 Doctor of Philosophy – PhD, Information  
 _Aug 2021 – Aug 2024_
 
-**University of California, Los Angeles (UCLA)**  
-Bachelor of Science – BS, Statistics  
-_Sep 2016 – Jun 2020_
+**Anhui Polytechnic University, China**  
+Bachelor of Engineering – BE, Automation  
+_Sep 2013 – Jun 2017_
 
 ---
 
