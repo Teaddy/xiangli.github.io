@@ -32,18 +32,23 @@ _Sep 2013 – Jun 2017_
    *Enhancing Autism Spectrum Disorder Early Detection with Parent-child Dyads Block-play Protocol and Attention-enhanced Hybrid Deep Learning Framework.*  
    *Engineering Applications of Artificial Intelligence.* doi:10.1016/j.engappai.2025.110430  
 
-2. Wang, X.\*, **Fan, L.✢**, Li, H.\*, Jiang, W., Bi, X., ... Ma, X. (2025).  
-   *Skip-AttSeqNet: Leveraging Skip Connection and Attention-Driven Seq2seq Model to Enhance Eye Movement Event Detection in Parkinson’s Disease.*  
-   *Biomedical Signal Processing and Control.* doi:10.1016/j.bspc.2024.106862  
+2. Tian, H., Li, H., Jiang, W., Ma, X., **Li, X.**, Wu, H., Li, Y. (2024).
+   *Cross-Spatiotemporal Graph Convolution Networks for Skeleton-Based Parkinsonian Gait MDS-UPDRS Score Estimation.*
+   *IEEE Transactions on Neural Systems and Rehabilitation Engineering.* doi:10.1109/TNSRE.2024.3352004
 
-3. Sun, J., Lu, T., Shao, X., Han, Y., Xia, Y., Zheng, Y., ... **Fan, L.** (2025).  
-   *Practical AI application in psychiatry: Historical review and future directions.*  
-   *Molecular Psychiatry.* doi:10.1038/s41380-025-03072-3  
+3. Zhang, H., Wu, C., Huang, Y., **Li, X.**, Ma, X., Song, R., K.Agrawal, S. (2024)
+   *Two-Dimensional Deep Convolutional Neural Networks for Estimating Stride Length and Velocity in Institutionalized Older Adults.*
+   *IEEE Sensors Journal.* doi: 10.1109/JSEN.2024.3408900
 
-4. Jin, M., Yu, Q., Dong, S., Zhang, C., **Fan, L.**, Hua, W., ... Zhang, Y. (2025).  
-   *Health-LLM: Personalized Retrieval-Augmented Disease Prediction System.*  
-   *ACL 2025 NLP4PI Workshop*  
+4. Zhang, Y., Cai, J., **Li, X.**, Wu, C,. Ma, X., Li, Y., Song, R., Zhang, H. (2024)
+   *End-to-End Deep Learning Models for Estimating Stride Length in Frail Older Adults.*
+   *Proceedings of the 2024 2nd International Conference on Frontiers of Intelligent Manufacturing and Automation.* doi:10.1145/3704558.3705529 
+   
+5. Tian, H., Ma, X., **Li, X.**, Li, Y. (2023)
+   *Skeleton-Based Action Recognition With Select-Assemble-Normalize Graph Convolutional Networks.*
+   *IEEE Transactions on Multimedia* doi:10.1109/TMM.2023.3318325
 
-5. Lv, C.\*, **Fan, L.\***, Li, H.\*, Ma, J., Jiang, W., ... Ma, X. (2024).  
-   *Leveraging Multimodal Deep Learning Framework and a Comprehensive Audio-Visual Dataset to Advance Parkinson’s Early Detection.*  
-   *Journal of Biomedical Informatics.* doi:10.1016/j.jbi.2024.106480  
+### LLM Reasoning
+1. **Li, X.**,
+
+
