@@ -25,14 +25,14 @@ _Sep 2013 – Jun 2017_
 
 
 ## PROFILE
-Specialized in the implementation of Deep Learning and Large Language Models (LLMs), with strong expertise in rigorous experimental validation and algorithmic reasoning. Research emphasizes both practical system building and theoretical insights, as well as algorithmic innovation. Experienced in server administration and high-performance computing environments, ensuring efficient and reliable infrastructure for large-scale AI research and deployment.
+Expertise in the implementation of Deep Learning and Large Language Models (LLMs), with a strong focus on rigorous experimental validation and algorithmic reasoning. Research emphasizes reproducible system building, algorithmic innovation, and scalable deployment. Skilled in server administration and high-performance computing, ensuring efficient and reliable infrastructure for large-scale AI research.  
 
-- **Deep Learning & LLM Engineering:** design and implementation of neural architectures; pre-training, fine-tuning, distillation, and quantization; RAG pipelines; multimodal/vision-language models and video behavior analysis; robust baselines and error analysis.  
-- **Experimentation & Reproducibility:** systematic dataset curation, ablation studies, statistical validation; reproducible training/evaluation pipelines.  
-- **Systems & Performance:** distributed training (e.g., PyTorch DDP), mixed precision, memory/throughput optimization, inference serving and profiling; balancing latency–accuracy trade-offs from research to deployment.  
-- **Infrastructure & Administration:** Linux server management, GPU driver & CUDA toolchain maintenance, containerization (Docker), job scheduling (e.g., Slurm).  
-- **Evaluation & Safety:** task-appropriate metrics (e.g., accuracy/F1/AUROC), LLM evaluation frameworks with human-in-the-loop review, adversarial testing; privacy-aware workflows for sensitive domains such as neurological and psychiatric disorders.  
-- **Collaboration & Mentoring:** standardized documentation and code review, cross-disciplinary collaboration (e.g., clinicians/engineers), and supervision of junior researchers to deliver reliable and reproducible research code.  
+- **Deep Learning & LLM Engineering:** neural architecture design, pre-training, fine-tuning, distillation, quantization; RAG pipelines; multimodal/vision-language models; video behavior analysis; baseline construction and error analysis.  
+- **Experimentation & Reproducibility:** dataset curation, ablation studies, statistical validation; reproducible training/evaluation pipelines.  
+- **Systems & Performance:** distributed training (e.g., PyTorch DDP), mixed precision, memory/throughput optimization; inference serving and profiling; balancing latency–accuracy trade-offs.  
+- **Infrastructure & Administration:** Linux server management, GPU driver & CUDA toolchain maintenance, Docker-based containerization, Kubernetes scheduling, and system monitoring.  
+- **Collaboration & Mentoring:** code review, cross-disciplinary collaboration (e.g., clinicians and engineers), and supervision of junior researchers to deliver reproducible and impactful research outcomes.  
+
 
 ---
 
