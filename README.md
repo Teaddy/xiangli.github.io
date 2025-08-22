@@ -49,6 +49,6 @@ _Sep 2013 – Jun 2017_
    *IEEE Transactions on Multimedia* doi:10.1109/TMM.2023.3318325
 
 ### LLM Reasoning
-1. **Li, X.**,
+1. **Li, X.\***,
 
 
