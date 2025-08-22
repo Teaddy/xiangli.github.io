@@ -4,9 +4,13 @@
 ---
 
 ## EDUCATION
-**University of Michigan**  
-Doctor of Philosophy – PhD, Information  
-_Aug 2021 – Aug 2024_
+**Shandong University, School of Control Science and Engineering, China**  
+Doctor of Engineering – DE, Electronic Information  
+_Sep 2020 – Present_
+
+**Shandong University, School of Integrated Circuits, China**  
+Master of Engineering – ME, Electronic Information  
+_Sep 2018 – Jun 2021_
 
 **Anhui Polytechnic University, China**  
 Bachelor of Engineering – BE, Automation  
@@ -15,16 +19,16 @@ _Sep 2013 – Jun 2017_
 ---
 
 ## RESEARCH INTERESTS
-- **Medical AI, Health Informatics, AI Agents, AI for Science, LLM Reasoning**  
-- Medical Field: **Psychiatry**
+- **Video Behavior Analysis, Deep Learning, Medical AI, Health Informatics, AI Agents, LLM Reasoning**  
+- Medical Field: **Psychiatry, Autism Spectrum Disorder**
 
 ---
 
 ## PEER-REVIEWED ARTICLES
-> * marks equal contribution co-first authors; † marks articles in which I serve as a corresponding author.
+> * marks equal contribution co-first authors.
 
 ### Medical AI
-1. Li, X.\*, **Fan, L.†**, Wu, H., Chen, K., Yu, X., ... Ma, X.† (2025).  
+1. **Li, X.\***, Fan, L.†, Wu, H., Chen, K., Yu, X., ... Ma, X.† (2025).  
    *Enhancing Autism Spectrum Disorder Early Detection with Parent-child Dyads Block-play Protocol and Attention-enhanced Hybrid Deep Learning Framework.*  
    *Engineering Applications of Artificial Intelligence.* doi:10.1016/j.engappai.2025.110430  
 
