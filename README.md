@@ -1,6 +1,5 @@
-# xiangli.github.io
 # XIANG LI
-
+Email: lixiang0814@mail.sdu.edu.cn 
 ---
 
 ## EDUCATION
@@ -23,6 +22,20 @@ _Sep 2013 – Jun 2017_
 - Medical Field: **Psychiatry, Autism Spectrum Disorder**
 
 ---
+
+
+## PROFILE
+Specialized in the implementation of Deep Learning and Large Language Models (LLMs), with strong expertise in rigorous experimental validation and algorithmic reasoning. Research emphasizes both practical system building and theoretical insights, as well as algorithmic innovation. Experienced in server administration and high-performance computing environments, ensuring efficient and reliable infrastructure for large-scale AI research and deployment.
+
+- **Deep Learning & LLM Engineering:** design and implementation of neural architectures; pre-training, fine-tuning, distillation, and quantization; RAG pipelines; multimodal/vision-language models and video behavior analysis; robust baselines and error analysis.  
+- **Experimentation & Reproducibility:** systematic dataset curation, ablation studies, statistical validation; reproducible training/evaluation pipelines.  
+- **Systems & Performance:** distributed training (e.g., PyTorch DDP), mixed precision, memory/throughput optimization, inference serving and profiling; balancing latency–accuracy trade-offs from research to deployment.  
+- **Infrastructure & Administration:** Linux server management, GPU driver & CUDA toolchain maintenance, containerization (Docker), job scheduling (e.g., Slurm).  
+- **Evaluation & Safety:** task-appropriate metrics (e.g., accuracy/F1/AUROC), LLM evaluation frameworks with human-in-the-loop review, adversarial testing; privacy-aware workflows for sensitive domains such as neurological and psychiatric disorders.  
+- **Collaboration & Mentoring:** standardized documentation and code review, cross-disciplinary collaboration (e.g., clinicians/engineers), and supervision of junior researchers to deliver reliable and reproducible research code.  
+
+---
+
 
 ## PEER-REVIEWED ARTICLES
 > * marks equal contribution co-first authors. † marks corresponding authors.
@@ -53,13 +66,31 @@ _Sep 2013 – Jun 2017_
    *IEEE Transactions on Multimedia* doi:10.1109/TMM.2023.3318325
 
 ### LLM Reasoning and AI Agents
-1. **Li, X.\***, Hua, W.*, Zhu, K., Li, L., Ling, H., Chi, J., Dou, Q., Wang, J., Zhang, Y., Ma, X.†, Fan, L.†,
+1. **Li, X.\***, Hua, W.*, Zhu, K., Li, L., Ling, H., Chi, J., Dou, Q., Wang, J., Zhang, Y., Ma, X.†, Fan, L.† (2025)
    *NPHardEval4V: Dynamic Evaluation of Multimodal Large Language Models with Effects of Vision.*
    *ACM Transactions on Intelligent Systems and Technology.* （Under Review）
 
 2. Yu, H., Zhou, J., Li, L., Chen, S., Gallifant, J., Shi, A., **Li, X.**, Hua, W., Jin, M., Chen, G., Zhou, Y., Li, Z., Grupte, T., Chen, M., Azizi, Z., Zhang, Y., L.Assimes, T., Ma, X., S.Bitterman, D., Lu, L., Fan, L†. (2025).
    *AIPatient: simulating patients with EHRs and LLM powered agentic workflow.*
-   *AAAI 2025 Workshop on Advancing LLM-Based Multi-Agent Collaboration.* 
+   *AAAI 2025 Workshop on Advancing LLM-Based Multi-Agent Collaboration.*
+
+
+---
+
+
+## PATENTS
+1. Ma, S., **Li, X.**, Cao, A., Chen, K., Cai, Z., Yu, X., Che, C.  
+   *Autism Recognition System Based on Hybrid Deep Learning, Storage Medium and Device*  
+   Patent No. CN202410268048.1, Filed: Mar 07, 2024, Granted: Mar 04, 2025.
+
+2. Ma, S., **Li, X.**. 
+   *System, Non-Transitory Storage Medium, and Electronic Device for Recognizing Autism Based on Hybrid Deep Learning*  
+   United States Patent Application, Pending, 2024.
+
+
+---
+
+
+## SCHOLARSHIPS
+1. School of Control Science and Engineering Fellowship, Shandong University, 2021–2024
    
-
-
