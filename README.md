@@ -85,7 +85,7 @@ Expertise in the implementation of Deep Learning and Large Language Models (LLMs
 
 2. Ma, S., **Li, X.**. 
    *System, Non-Transitory Storage Medium, and Electronic Device for Recognizing Autism Based on Hybrid Deep Learning*  
-   United States Patent Application, Pending, 2024.
+   United States Patent Application, Pending, 2025.
 
 
 ---
